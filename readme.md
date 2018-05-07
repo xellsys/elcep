@@ -1,3 +1,6 @@
+# Further maintenance of this project is now under: https://github.com/MaibornWolff/elcep
+-----
+
 ELCEP - Elastic Log Counter Exporter for Prometheus
 ===================================================
 
